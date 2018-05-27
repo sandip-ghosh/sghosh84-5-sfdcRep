@@ -61,7 +61,7 @@
       	sessionId="${sf.sessionId}" 
       	serverurl="${sf.serverurl}" 
       	maxPoll="${sf.maxPoll}" 
-      	deployRoot="retrieveUnpackaged" 
+      	deployRoot="." 
       	rollbackOnError="true"/>
     </target>
 
